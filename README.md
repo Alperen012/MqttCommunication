@@ -29,7 +29,6 @@
 - [🧪 Testing](#-testing)
 - [📈 Performance](#-performance)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 - [🆘 Support](#-support)
 
 ---
@@ -426,8 +425,8 @@ python -m pytest
 
 Made with ❤️ by developers, for developers
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/Alperen012/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Alperen012/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Alperen012/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/watchers)
 
 </div>
