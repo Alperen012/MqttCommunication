@@ -425,8 +425,8 @@ python -m pytest
 
 Made with ❤️ by developers, for developers
 
-[![GitHub stars](https://img.shields.io/github/stars/Alperen012/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Alperen012/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/Alperen012/mqtt-communication?style=social)](https://github.com/yourusername/mqtt-communication/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/Alperen012/MqttCommunication?style=social)](https://github.com/Alperen012/MqttCommunication/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Alperen012/MqttCommunication?style=social)](https://github.com/Alperen012/MqttCommunication/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Alperen012/MqttCommunication?style=social)](https://github.com/Alperen012/MqttCommunication/watchers)
 
 </div>
